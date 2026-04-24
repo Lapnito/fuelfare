@@ -16,9 +16,6 @@
   <a href="https://apps.apple.com/us/app/fuelfare-trip-cost-calculator/id6450358923">
     <img src="https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Download on App Store">
   </a>
-  <a href="https://lapnito.cz/fuelfare">
-    <img src="https://img.shields.io/badge/Website-lapnito.cz-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
 </p>
 
 <p align="center">
@@ -27,6 +24,29 @@
   <img src="https://img.shields.io/badge/License-Proprietary-blue" alt="License">
   <img src="https://img.shields.io/badge/Privacy-No%20Data%20Collected-brightgreen" alt="No Data Collected">
   <img src="https://img.shields.io/badge/Developer-lapnito.cz%20s.r.o.-blueviolet" alt="Developer">
+</p>
+
+<p align="center">
+  <b>Read in other languages:</b>
+  <a href="README.es.md">Español</a> ·
+  <a href="README.pt-BR.md">Português (BR)</a> ·
+  <a href="README.de.md">Deutsch</a> ·
+  <a href="README.fr.md">Français</a> ·
+  <a href="README.it.md">Italiano</a> ·
+  <a href="README.nl.md">Nederlands</a> ·
+  <a href="README.pl.md">Polski</a> ·
+  <a href="README.cs.md">Čeština</a> ·
+  <a href="README.uk.md">Українська</a> ·
+  <a href="README.ru.md">Русский</a> ·
+  <a href="README.tr.md">Türkçe</a> ·
+  <a href="README.ar.md">العربية</a> ·
+  <a href="README.hi.md">हिन्दी</a> ·
+  <a href="README.zh-CN.md">中文</a> ·
+  <a href="README.ja.md">日本語</a> ·
+  <a href="README.ko.md">한국어</a> ·
+  <a href="README.id.md">Bahasa Indonesia</a> ·
+  <a href="README.vi.md">Tiếng Việt</a> ·
+  <a href="README.th.md">ภาษาไทย</a>
 </p>
 
 ---
@@ -64,7 +84,7 @@ Whether you're planning a road trip, estimating daily commute expenses, splittin
 - **No Ads, No Tracking** — Zero advertisements, zero analytics, zero data collection. Your driving data stays on your device.
 - **No Account Required** — Start using the app immediately. No sign-up, no login, no email verification.
 - **Backup & Restore** — Export your vehicles, routes, and trip history as a ZIP file. Import it on a new device or as a backup.
-- **17 Languages** — Available in English, Arabic, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Polish, Portuguese, Russian, Simplified Chinese, Spanish, Traditional Chinese, Turkish, and Vietnamese.
+- **20 Languages** — Available in English, Spanish, Portuguese (Brazil), German, French, Italian, Dutch, Polish, Czech, Ukrainian, Russian, Turkish, Arabic, Hindi, Simplified Chinese, Japanese, Korean, Indonesian, Vietnamese, and Thai.
 
 ## Use Cases
 
@@ -115,7 +135,6 @@ The "Show Math" feature displays this entire breakdown step by step, so you alwa
 | **Android** | FuelFare: Trip Cost Calculator | [Google Play](https://play.google.com/store/apps/details?id=com.tomas.fuelfare) |
 | **iOS** | FuelFare: Trip Cost Calculator | [App Store](https://apps.apple.com/us/app/fuelfare-trip-cost-calculator/id6450358923) |
 
-**Website:** [lapnito.cz/fuelfare](https://lapnito.cz/fuelfare)
 **Support:** [lapnito.cz/fuelfare/support.html](https://lapnito.cz/fuelfare/support.html)
 
 ## FAQ
@@ -157,15 +176,13 @@ A: Both versions offer the same core functionality. The app is called "FuelFare:
 - **Zero network dependencies** — no API calls, no cloud services, no analytics SDKs
 - **Android:** Min SDK Android 5.0 (API 21)
 - **iOS:** Min iOS 17.0, also compatible with iPadOS
-- **Languages:** 17 languages supported
+- **Languages:** English, Español, Português, Deutsch, Français, Italiano, Nederlands, Polski, Čeština, Українська, Русский, Türkçe, العربية, हिन्दी, 中文, 日本語, 한국어, Bahasa Indonesia, Tiếng Việt, ภาษาไทย
 - **Data export:** ZIP format for full backup and restore
 
 ## About the Developer
 
 Built by **[lapnito.cz s.r.o.](https://lapnito.cz)** (Lapnito Development Studio), an indie development studio based in the Czech Republic.
 
-- **Website:** [lapnito.cz](https://lapnito.cz)
-- **App page:** [lapnito.cz/fuelfare](https://lapnito.cz/fuelfare)
 - **Support:** [lapnito.cz/fuelfare/support.html](https://lapnito.cz/fuelfare/support.html)
 - **Email:** [tom@lapnito.cz](mailto:tom@lapnito.cz)
 - **More apps:** [Google Play](https://play.google.com/store/apps/developer?id=lapnito+development+studio) | [App Store](https://apps.apple.com/developer/lapnito-cz-s-r-o/id1588955203)
